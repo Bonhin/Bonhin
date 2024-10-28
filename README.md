@@ -1,10 +1,10 @@
-### Eduardo Pires Bonhin - [Developer training] 👋
+### Eduardo Pires Bonhin - [Developer] 👋
 
 ## I'm a Developer, Software Engineer, and Mechinal PhD who loves technology!
 
 - 💻 I'm a Developer and Software Engineer student working in the financial sector!.
 - 📈 I'm constantly learning and improving my skills 🤣
-- 📊 I intend to collaborate with other data scientists and developers.
+- 📊 I intend to collaborate with other developers.
 
 
 ### Connect with me:
@@ -16,11 +16,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
+<img align="left" alt="Angular" width="26px" src="https://w1.pngwing.com/pngs/385/9/png-transparent-angular-red-getting-started-with-angular-rxjs-debugging-progressive-web-apps-singlepage-application-web-application-software-framework-thumbnail.png" />
 
 <img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919832.png" />
 
-<img align="left" alt="Angular" width="26px" src="https://w1.pngwing.com/pngs/385/9/png-transparent-angular-red-getting-started-with-angular-rxjs-debugging-progressive-web-apps-singlepage-application-web-application-software-framework-thumbnail.png" />
+<img align="left" alt="C#" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
